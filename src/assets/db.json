@@ -1,0 +1,17 @@
+{
+  "people": [
+    {
+      
+      "name":"Hitesh",
+      "email":"osm.amit@gmai.com1",
+      "password":123456,
+      "phone_code":91,
+      "mobile":7790839621,
+      "is_registration":"0"
+      ,"user_type":1,
+      "type":"Web"
+
+    }
+  ]
+}
+ 
